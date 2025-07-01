@@ -29,7 +29,7 @@ A simple, customizable password generator built using **HTML**, **CSS**, and **J
 ## 🖥️ Live Demo
 
 Check out the live version here:  
-👉 [Live Demo on GitHub Pages](https://yourusername.github.io/password-generator)
+👉 [Live Demo](https://password-generator-marmik.netlify.app/)
 
 ## 🔧 How to Use
 
