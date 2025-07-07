@@ -64,13 +64,12 @@ Check out the live version here:
 - Password length is limited to a minimum of 4 and a maximum of 16 characters.
 - If no character types are selected, the generator will not produce a password.
 
-## 📬 Contact
+## 🙋‍♀️ Author
 
-If you have any feedback or suggestions, feel free to reach out:
-
+Developed by [Marmik Gandhi]
+Feel free to connect:  
 - GitHub: [@MarmikGandhi](https://github.com/MarmikGandhi)
 - Email: [marmikgandhi@gamil.com](mailto:marmikgandhi@gamil.com)
+- LinkedIn: [marmik-gandhi](https://www.linkedin.com/in/marmik-gandhi-006a55323/)
 
----
-
-Built with by *Marmik Gandhi*
+> Crafted with care and precision — where clean code meets creative passion.
